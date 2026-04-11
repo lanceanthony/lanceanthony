@@ -24,7 +24,7 @@ I’m a Computer Science student and aspiring **Cybersecurity Analyst** with a s
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [https://www.linkedin.com/in/yourname ](https://www.linkedin.com/in/lance-vidaure-769a6119a/) 
+- LinkedIn: https://www.linkedin.com/in/lance-vidaure-769a6119a/
 
 ---
 
