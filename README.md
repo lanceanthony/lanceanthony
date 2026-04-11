@@ -7,7 +7,6 @@ I’m a Computer Science student and aspiring **Cybersecurity Analyst** with a s
 ## 🔐 What I’m Currently Working On
 
 - Cybersecurity projects focused on **log analysis and threat detection**
-- Building hands-on experience with **SIEM tools (Splunk)**
 - Exploring **AI/LLM security concepts** such as prompt injection and misuse scenarios  
 - Developing foundational skills in **network security, cloud security, and incident response**
 
@@ -25,7 +24,7 @@ I’m a Computer Science student and aspiring **Cybersecurity Analyst** with a s
 
 ## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/yourname  
+- LinkedIn: [https://www.linkedin.com/in/yourname ](https://www.linkedin.com/in/lance-vidaure-769a6119a/) 
 
 ---
 
