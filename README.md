@@ -30,9 +30,9 @@ I’m a Computer Science student and aspiring **Cybersecurity Analyst** with a s
 
 ## ⚡ Fun Fact
 
-I love sushi 🍣
-I can type at ~120 WPM ⌨️ 
-I’m always looking to learn something new in cybersecurity and enjoy solving complex problems in fast-paced environments
+- I love sushi 🍣
+- I can type at ~120 WPM ⌨️ 
+- I’m always looking to learn something new in cybersecurity and enjoy solving complex problems in fast-paced environments
 
 ---
 
