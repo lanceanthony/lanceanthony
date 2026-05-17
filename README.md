@@ -9,22 +9,25 @@ I’m a Computer Science student and aspiring **Cybersecurity Analyst** with a s
 - Cybersecurity projects focused on **log analysis and threat detection**
 - Exploring **AI/LLM security concepts** such as prompt injection and misuse scenarios  
 - Developing foundational skills in **network security, cloud security, and incident response**
+- IoT Cyber Defense Externship at Hydroficient — securing real-world IoT infrastructure
+- TryHackMe SOC Level 2 path
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Security & Monitoring:** Splunk (SIEM), Log Analysis  
+- **Security & Monitoring:** Wazuh SIEM, Splunk, Log Analysis, Threat Detection
+- **IoT/OT Security:** TLS/mTLS, Threat Modeling, Anomaly Detection, Critical Infrastructure
 - **Systems:** Windows, Linux  
 - **Cloud:** AWS (basic – EC2, S3)  
-- **Networking:** TCP/IP, DNS, VPN fundamentals  
-- **Programming:** Python, Java, C++, SQL  
+- **Networking:** TCP/IP, DNS, VPN fundamentals
+- **Programming:** Python, Java, C++, SQL
 
 ---
 
 ## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/lance-vidaure-769a6119a/
+- LinkedIn: https://www.linkedin.com/in/lance-vidaure/
 
 ---
 
