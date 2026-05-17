@@ -41,6 +41,6 @@ I’m a Computer Science student and aspiring **Cybersecurity Analyst** with a s
 
 ## 🚀 Goals for 2026
 
-- Build a home lab for security testing  
+- ✅ Built Home SOC Lab — Wazuh SIEM, attack simulation, AWS monitoring, GRC docs
 - Contribute to cybersecurity projects on GitHub  
 - Earn advanced certifications and grow into a SOC Analyst role  
