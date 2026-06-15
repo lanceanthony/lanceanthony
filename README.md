@@ -59,7 +59,6 @@ Malware analysis and detection research project.
 | Project | Status |
 |---|---|
 | IoT Cyber Defense Externship — Hydroficient | 🟢 Active (→ Jul 2026) |
-| Splunk Core Certified User (SPLK-1002) | 🟡 In Progress |
 | Microsoft SC-200 Security Operations Analyst | 🔵 Up Next |
 | CompTIA CySA+ via Army Credentialing Assistance | 📅 Planned |
 | TryHackMe SOC Level 2 | 🟡 In Progress |
