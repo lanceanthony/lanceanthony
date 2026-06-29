@@ -64,9 +64,9 @@ Malware analysis and detection research project.
 |---|---|
 | Home SOC Lab — Phase 10 (Microsoft Sentinel + KQL) | 🟡 Planned |
 | Microsoft SC-200 Security Operations Analyst | 🟢 Active |
-| IoT Cyber Defense Externship — Hydroficient | ✅ Complete (Jul 2026) |
-| CompTIA CySA+ V4 via Army Credentialing Assistance | 📅 Sep 2026 |
+| IoT Cyber Defense Externship — Hydroficient | 🟡 In Progress |
 | TryHackMe SOC Level 2 | 🟡 In Progress |
+| CompTIA CySA+ V4 via Army Credentialing Assistance | 📅 Sep 2026 |
 
 ---
 
