@@ -26,7 +26,7 @@
 
 ### [Home SOC Lab](https://github.com/lanceanthony/Home-SOC-Lab)
 
-Full blue team lab built from scratch across 9 phases — network infrastructure through detection engineering and a unified SOC dashboard. 120,000+ events indexed. Phase 10 (Microsoft Sentinel + KQL) in progress.
+Full blue team lab built from scratch across 10 phases — network infrastructure through detection engineering, a unified SOC dashboard, and a dual-SIEM cloud integration. 120,000+ events indexed across Splunk and Microsoft Sentinel.
 
 | Phase | Component | Detail |
 |---|---|---|
@@ -38,6 +38,7 @@ Full blue team lab built from scratch across 9 phases — network infrastructure
 | 7 | Splunk Integration | Splunk Enterprise 9.3.2 · Universal Forwarder · Sysmon v15.20 |
 | 8 | Detection Engineering | 5 MITRE ATT&CK mapped alerts · SPL · 5 SOC runbooks |
 | 9 | SOC Dashboard | 7-panel dashboard · tokens · drilldown · auto-refresh |
+| 10 | Microsoft Sentinel | Azure Arc · AMA · KQL · 5 detections rebuilt dual-SIEM · incident investigation |
 
 **MITRE ATT&CK Coverage:** T1046 · T1110 · T1110.001 · T1136.001 · T1059 · T1021 · T1078
 
@@ -62,7 +63,7 @@ Malware analysis and detection research project.
 
 | Project | Status |
 |---|---|
-| Home SOC Lab — Phase 10 (Microsoft Sentinel + KQL) | 🟡 Planned |
+| Home SOC Lab — Phase 10 (Microsoft Sentinel + KQL) | ✅ Complete |
 | Microsoft SC-200 Security Operations Analyst | 🟢 Active |
 | IoT Cyber Defense Externship — Hydroficient | ✅ Complete |
 | TryHackMe SOC Level 2 | 🟡 In Progress |
