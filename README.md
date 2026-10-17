@@ -26,7 +26,7 @@
 
 ### [Home SOC Lab](https://github.com/lanceanthony/Home-SOC-Lab)
 
-Full blue team lab built from scratch across 10 phases — network infrastructure through detection engineering, a unified SOC dashboard, and a dual-SIEM cloud integration. 120,000+ events indexed across Splunk and Microsoft Sentinel.
+Full blue team lab built from scratch across 11 phases — network infrastructure through detection engineering, a unified SOC dashboard, a dual-SIEM cloud integration, and an EDR detection-and-response layer. 120,000+ events indexed across Splunk and Microsoft Sentinel.
 
 | Phase | Component | Detail |
 |---|---|---|
@@ -39,8 +39,9 @@ Full blue team lab built from scratch across 10 phases — network infrastructur
 | 8 | Detection Engineering | 5 MITRE ATT&CK mapped alerts · SPL · 5 SOC runbooks |
 | 9 | SOC Dashboard | 7-panel dashboard · tokens · drilldown · auto-refresh |
 | 10 | Microsoft Sentinel | Azure Arc · AMA · KQL · 5 detections rebuilt dual-SIEM · incident investigation |
+| 11 | EDR | LimaCharlie + Velociraptor · 4 custom detection-as-code rules · Atomic Red Team · coverage matrix |
 
-**MITRE ATT&CK Coverage:** T1046 · T1110 · T1110.001 · T1136.001 · T1059 · T1021 · T1078
+**MITRE ATT&CK Coverage:** T1003.001 · T1021 · T1046 · T1053.005 · T1059 · T1059.001 · T1070 · T1078 · T1110 · T1110.001 · T1136.001 · T1218.011 · T1547.001
 
 ---
 
@@ -63,11 +64,10 @@ Malware analysis and detection research project.
 
 | Project | Status |
 |---|---|
-| Home SOC Lab — Phase 10 (Microsoft Sentinel + KQL) | ✅ Complete |
+| Home SOC Lab — Phase 11 (EDR: LimaCharlie · Velociraptor · Atomic Red Team) | ✅ Complete |
 | Microsoft SC-200 Security Operations Analyst | 🟢 Active |
-| IoT Cyber Defense Externship — Hydroficient | ✅ Complete |
 | TryHackMe SOC Level 2 | 🟡 In Progress |
-| CompTIA CySA+ V4 via Army Credentialing Assistance | 📅 Sep 2026 |
+| CompTIA CySA+ V4 via Army Credentialing Assistance | 📅 Oct 2026 |
 
 ---
 
@@ -79,7 +79,7 @@ Malware analysis and detection research project.
 | SPLK-1002 Splunk Core Certified User | ✅ Active |
 | Google Cybersecurity Professional Certificate | ✅ Complete |
 | Microsoft SC-200 Security Operations Analyst | 🟢 In Progress |
-| CompTIA CySA+ V4 | 📅 Sep 2026 |
+| CompTIA CySA+ V4 | 📅 Oct 2026 |
 
 ---
 
@@ -90,7 +90,11 @@ Malware analysis and detection research project.
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3a86ff?style=flat-square&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![LimaCharlie](https://img.shields.io/badge/LimaCharlie_EDR-1f6feb?style=flat-square&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor_DFIR-2ea043?style=flat-square&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E31837?style=flat-square&logoColor=white)
+![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-b31b1b?style=flat-square&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-00979D?style=flat-square&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white)
