@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1a3a5c&height=180&section=header&text=Lance%20Vidaure&fontSize=46&fontColor=00c8a0&fontAlignY=40&desc=SOC%20Analyst%20%7C%20Security%2B%20%7C%20SPLK-1002%20%7C%20U.S.%20Army%20CBRN%20NCO%20%7C%20CS%20%40%20Queens%20College%20CUNY&descSize=13&descAlignY=58&descColor=7eb8d4" width="100%" alt="Lance Vidaure"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1a3a5c&height=180&section=header&text=Lance%20Vidaure&fontSize=46&fontColor=00c8a0&fontAlignY=40&desc=SOC%20Analyst%20%7C%20Active%20Secret%20Clearance%20%7C%20CySA%2B%20%7C%20Security%2B%20%7C%20SPLK-1002%20%7C%20U.S.%20Army%20CBRN%20NCO&descSize=13&descAlignY=58&descColor=7eb8d4" width="100%" alt="Lance Vidaure"/>
 
 <br/>
 
@@ -10,13 +10,15 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Queens%2C%20NY-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Active%20Secret%20Clearance-1a3a5c?style=for-the-badge&logoColor=white" alt="Active Secret Clearance"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Open%20To%20Work-00c8a0?style=for-the-badge&logoColor=white" alt="Open To Work"/>
 
 <br/><br/>
 
-> Computer Science student focused on **blue team operations**, **threat detection**, and **detection engineering**.
-> Building real labs, tools, and research — not just coursework.
-> U.S. Army CBRN NCO · Secret clearance eligible · SF-312 on file.
+> Computer Science student (Queens College, CUNY, Dec 2026) focused on **blue team operations**, **threat detection**, and **detection engineering**.
+> Building real labs, tools, and research, not just coursework.
+> U.S. Army CBRN NCO · **Active Secret clearance** · CompTIA CySA+ · Security+ · SPLK-1002.
 
 </div>
 
@@ -26,12 +28,12 @@
 
 ### [Home SOC Lab](https://github.com/lanceanthony/Home-SOC-Lab)
 
-Full blue team lab built from scratch across 11 phases — network infrastructure through detection engineering, a unified SOC dashboard, a dual-SIEM cloud integration, and an EDR detection-and-response layer. 120,000+ events indexed across Splunk and Microsoft Sentinel.
+Full blue team lab built from scratch across 11 phases: network infrastructure through detection engineering, a unified SOC dashboard, a dual-SIEM cloud integration, and an EDR detection-and-response layer. 120,000+ events indexed across Splunk and Microsoft Sentinel.
 
 | Phase | Component | Detail |
 |---|---|---|
 | 1–2 | Network + Identity | pfSense firewall · Windows Server 2022 · Active Directory |
-| 3 | SIEM | Wazuh on Ubuntu Server — custom detection rules |
+| 3 | SIEM | Wazuh on Ubuntu Server, custom detection rules |
 | 4 | Attack Sim + IR | Kali Linux · brute-force · privilege escalation · IR-2026-001 |
 | 5 | Cloud | AWS CloudTrail · IAM least-privilege · MFA enforcement |
 | 6 | GRC | NIST SP 800-30 risk assessment · Security policy |
@@ -47,7 +49,7 @@ Full blue team lab built from scratch across 11 phases — network infrastructur
 
 ### [MalSandbox](https://github.com/lanceanthony/malsandbox)
 
-Malware analysis and detection research project.
+Browser-based malware analysis platform simulating the SOC triage pipeline.
 
 | Sample | Type |
 |---|---|
@@ -56,7 +58,7 @@ Malware analysis and detection research project.
 | CVE-2023-21608 | Exploit |
 | Adware + clean baseline | Behavioral comparison |
 
-**Output:** YARA signatures · Python automation · Full MITRE ATT&CK TTP mapping · Behavioral analysis reports
+**Output:** YARA matching · Static analysis · Composite threat scoring · Full MITRE ATT&CK TTP mapping
 
 ---
 
@@ -64,10 +66,10 @@ Malware analysis and detection research project.
 
 | Project | Status |
 |---|---|
-| Home SOC Lab — Phase 11 (EDR: LimaCharlie · Velociraptor · Atomic Red Team) | ✅ Complete |
+| Home SOC Lab, Phase 11 (EDR: LimaCharlie · Velociraptor · Atomic Red Team) | ✅ Complete |
+| CompTIA CySA+ (CS0-004) via Army Credentialing Assistance | ✅ Passed Nov 2026 |
 | Microsoft SC-200 Security Operations Analyst | 🟢 Active |
 | TryHackMe SOC Level 2 | 🟡 In Progress |
-| CompTIA CySA+ V4 via Army Credentialing Assistance | 📅 Oct 2026 |
 
 ---
 
@@ -75,11 +77,11 @@ Malware analysis and detection research project.
 
 | Certification | Status |
 |---|---|
+| CompTIA CySA+ (CS0-004) | ✅ Active (Nov 2026) |
 | CompTIA Security+ | ✅ Active |
-| SPLK-1002 Splunk Core Certified User | ✅ Active |
+| Splunk Core Certified Power User (SPLK-1002) | ✅ Active |
 | Google Cybersecurity Professional Certificate | ✅ Complete |
 | Microsoft SC-200 Security Operations Analyst | 🟢 In Progress |
-| CompTIA CySA+ V4 | 📅 Oct 2026 |
 
 ---
 
@@ -124,18 +126,19 @@ Malware analysis and detection research project.
 ```
 U.S. Army National Guard  |  CBRN NCO (SGT/E-5)  |  MOS 74D  |  Since 2021
 ─────────────────────────────────────────────────────────────────────────────
+✔  Active Secret clearance
+✔  Company Safety NCO: risk assessments, inspections, incident reporting
 ✔  Operational security & CUI/PII handling
 ✔  Access control auditing & physical security
 ✔  Briefing leadership under pressure
 ✔  Managing & training junior soldiers
-✔  Secret clearance eligible — SF-312 on file
 ```
 
 ---
 
 <div align="center">
 
-*Actively seeking SOC Analyst · Detection Engineering · Defense-adjacent roles*
+*Actively seeking SOC Analyst · Detection Engineering · Cleared and defense roles*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0d1b2a&height=100&section=footer" width="100%" alt="footer"/>
 
